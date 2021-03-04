@@ -1,0 +1,32 @@
+/*Place SearchBar in center with margin*/
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+/*Give SearchBar input a margin*/
+.search-bar input {
+  width: 75%;
+}
+
+/*Give thumbnails a margin*/
+.video-item img {
+  max-width: 64px;
+}
+
+/*Format details (right of thumbnail)*/
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/*Highlight indicator*/
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
