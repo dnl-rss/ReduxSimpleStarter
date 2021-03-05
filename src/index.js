@@ -9,7 +9,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
 // Youtube API Key
-const API_KEY = 'AIzaSyAD5Yb-DYw6yl3yvxGohFc7T2jOtgoBc2o'
+const API_KEY = 'PLACE_API_KEY_HERE'
 
 // Class Component
 class App extends React.Component {
